@@ -2,3 +2,6 @@
 Here is my article: [Three things to know as the dust settles form DeepSeek](https://www.technologyreview.com/2025/02/04/1110918/three-things-to-know-as-the-dust-settles-from-deepseek/)
 
 One thing I found interesting from this article were the conversations about keeping AI open-source. Many US entities such as Meta and venture capitalist Marc Andreessen believe that open-source approaches are more effective at keeping AI safe than government regulation. However, the release of DeepSeek and its open source approach has upended OpenAI's business model of keeping its AI model closed. There is an interesting debate about whether the impact making AI open source will further AI development or cause more security and risk issues. 
+
+## Comment made by Abby Ibarra:
+This article was interesting and relevant to events occurring in the present time, as it highlights significant advancements in artificial intelligence. Personally, I think the release of DeepSeek is a good thing because it will allow for more transparency and accountability in the development of AI. With increased openness, researchers and developers can collaborate more effectively, leading to safer and more ethical AI systems. Additionally, greater transparency can help the public better understand AI technologies and their potential impact on society.
